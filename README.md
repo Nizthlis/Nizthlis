@@ -5,6 +5,7 @@
 - 📫 How to reach me: discord with same name
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I suck at backend yet I kinda understand Java and C++
+- my motto: https://www.youtube.com/watch?v=DHEG6Cz9WN8
 
 
 <!---
